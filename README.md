@@ -1,5 +1,5 @@
 # BigData-Configurations
-![Topology](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/02/Hadoop-Architecture2-01.jpg)
+![Topology](https://raw.githubusercontent.com/TrinhDinhPhuc/BigData-Configurations/master/imgs/topology.png)
 
 
 ![Hadoop HDFS](https://raw.githubusercontent.com/TrinhDinhPhuc/BigData-Configurations/master/imgs/hadoop.png)
